@@ -9,6 +9,10 @@ body{
 	background-color:#000000;
 }
 
+:root {
+  color-scheme: light dark;
+}
+
 .row{
 	width: 100%;
 }
