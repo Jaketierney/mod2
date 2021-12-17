@@ -41,7 +41,7 @@ h3{
 	position: relative;
 	top: 0;
 	background-color:#FF4500;
-	border: 3px solid #121212;
+	border: 1px solid #121212;
 	margin: 15px;
 	padding: 25px;
 }
@@ -57,8 +57,8 @@ h3{
 	top:0;
 	right: 0px; 
 	padding: 6px 90px;
-	border-left: 2px solid #121212;
-	border-bottom: 2px solid #121212;
+	border-left: 1px solid #121212;
+	border-bottom: 1px solid #121212;
 }
 
 #name-uno{
